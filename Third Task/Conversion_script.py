@@ -1,7 +1,7 @@
 import re
 import pandas as pd
 
-log_file_path = ""C:\Users\Manan\Downloads\OpenSSH_2k.log""
+log_file_path = ""C:\Users\Manan\Downloads\Unstructured_SSH_logfile.log""
 output_csv_path = "structured_logs.csv"
 
 pattern = re.compile(
