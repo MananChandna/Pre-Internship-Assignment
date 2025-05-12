@@ -1,0 +1,21 @@
+{
+  "data": {
+    "GENDER": 1,
+    "CAR": 1,
+    "REALITY": 1,
+    "NO_OF_CHILD": 2,
+    "INCOME": 120000,
+    "INCOME_TYPE": 1,
+    "EDUCATION_TYPE": 0,
+    "FAMILY_TYPE": 2,
+    "HOUSE_TYPE": 0,
+    "FLAG_MOBIL": 1,
+    "WORK_PHONE": 0,
+    "PHONE": 1,
+    "E_MAIL": 1,
+    "FAMILY SIZE": 4,
+    "BEGIN_MONTH": -6,
+    "AGE": 35,
+    "YEARS_EMPLOYED": 10
+  }
+}
